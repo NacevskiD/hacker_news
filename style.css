@@ -1,0 +1,33 @@
+.navBtn{
+    padding: 10px 24px;
+    cursor: pointer;
+    float: left;
+    text-align: center;
+}
+
+#current-page{
+    float: left;
+    text-align: center;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+.type-btn{
+    text-align: center;
+    width: 120px;
+    align-items: center;
+    justify-content: center;
+}
+
+body{
+    background: cornsilk;
+}
+label{
+    text-align: right;
+    clear: both;
+    float:left;
+    margin-right:15px;
+}
